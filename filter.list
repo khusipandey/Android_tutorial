@@ -1,0 +1,15 @@
+fun main() {
+    val list = listOf(3,21,8,4,9,1,13,)
+    val n = 7
+    val newlist= newlist(list, n)
+    println(newlist)  
+}
+fun newlist(list: List<Int>, n: Int): List<Int> {
+    val newList = mutableListOf<Int>()
+    for (ele in list) {
+        if (ele >= n) {
+            newList.add(ele)
+        }
+    }
+    return newList
+}
