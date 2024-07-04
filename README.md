@@ -7,5 +7,4 @@ Testing different styles
 3. Shadow_Text
 4. Multiple_style
 5. opacity_text
-   ![new_android](https://github.com/khusipandey/Android_tutorial/assets/128993461/db365592-1bad-4769-a362-0a517ba85046)
-
+  
