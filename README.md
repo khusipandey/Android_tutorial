@@ -9,6 +9,5 @@ Testing different styles
 5. opacity_text
 
 
-  ![new](https://github.com/khusipandey/Android_tutorial/assets/128993461/84cefdb4-3e4b-463f-b3a2-5b35943f4d0e)
-  ![new_android](https://github.com/khusipandey/Android_tutorial/assets/128993461/66e4c6e0-cf38-4e71-8635-7b7a77c240ea)
+  
 
