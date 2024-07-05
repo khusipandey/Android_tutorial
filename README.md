@@ -2,6 +2,10 @@
 -----------------------------------------------------------------------------------------------------
 1. DIFFERENT TYPES OF BUTTON( Elevated , floatingbutton, image on button ,etc)
 2. CARD
-
+3. SWITCH
+4. SLIDER
+5. CHIP
+6. DIVIDER
    
-![new](https://github.com/khusipandey/Android_tutorial/assets/128993461/0a01e944-ebd1-4459-b694-5b5a1094fade)
+
+ ![new](https://github.com/khusipandey/Android_tutorial/assets/128993461/8fae65cb-8d5a-4c60-8506-1de5c5f4d653)
