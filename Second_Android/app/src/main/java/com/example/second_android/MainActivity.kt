@@ -13,24 +13,18 @@ import androidx.compose.ui.unit.dp
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.requiredSizeIn
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Divider
 import androidx.compose.material3.Icon
-import androidx.compose.material.icons.*
 import androidx.compose.material.icons.filled.Done
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableFloatStateOf
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.tooling.preview.Preview
 import com.example.second_android.ui.theme.Second_AndroidTheme
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
@@ -142,10 +136,6 @@ class MainActivity : ComponentActivity() {
                             null
                         },
                     )
-
-
-
-
                 }
             }
         }
