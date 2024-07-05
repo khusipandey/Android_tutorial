@@ -1,4 +1,4 @@
 # Android_tutorial
 -----------------------------------------------------------------------------------------------------
-DIFFERENT TYPES OF BUTTON
-CARD
+1. DIFFERENT TYPES OF BUTTON
+2. CARD
