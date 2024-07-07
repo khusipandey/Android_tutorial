@@ -107,9 +107,10 @@ class MainActivity : ComponentActivity() {
                             textAlign = TextAlign.Center,
                         )
                         Spacer(modifier = Modifier.height(5.dp))
+                        var email = remember{ mutableStateOf("") }
                         OutlinedTextField(
-                            value = "",
-                            onValueChange = { },
+                            value = email.value,
+                            onValueChange = { email.value =  it },
                             label = { Text("Email ID or Mobile  Number") },
                             modifier = Modifier
                                 .fillMaxWidth()
