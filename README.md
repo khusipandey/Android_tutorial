@@ -1,2 +1,2 @@
 # Android_tutorial
-kotlin programs
+Phone number and OTP authentication using Firebase
