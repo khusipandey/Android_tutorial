@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">15173825382</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5FGuPFde_K8pju6O7B7cbZvP_dhPkE5M</string>
+    <string name="google_app_id" translatable="false">1:15173825382:android:46c6b6fb0c6c4d14724ea7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5FGuPFde_K8pju6O7B7cbZvP_dhPkE5M</string>
+    <string name="google_storage_bucket" translatable="false">emailauth-e1963.appspot.com</string>
+    <string name="project_id" translatable="false">emailauth-e1963</string>
+</resources>
