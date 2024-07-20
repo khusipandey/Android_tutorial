@@ -13,3 +13,6 @@ CRUD operation in firestore DB
 
 
 4. DELETE
+
+
+   ![new](https://github.com/user-attachments/assets/2f1dac77-88e6-453c-a980-bb1297307b51)
