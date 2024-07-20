@@ -6,3 +6,7 @@ CRUD operation in firestore DB
 
 
 2. UPDATE
+
+
+![new](https://github.com/user-attachments/assets/bf6eeb27-a927-4819-9d02-3628f3f3505a)
+![auth](https://github.com/user-attachments/assets/1d2e640b-df15-4c0f-b130-94dfec18f6e7)
