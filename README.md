@@ -1,2 +1,2 @@
 # Android_tutorial
-kotlin programs & Android studio projects 
+CRUD operation in firestore DB
